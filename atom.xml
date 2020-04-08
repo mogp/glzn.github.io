@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>GLZN</title>
+  
+  <subtitle>学无止境</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.glzn.net/"/>
+  <updated>2019-01-07T14:57:48.505Z</updated>
+  <id>http://www.glzn.net/</id>
+  
+  <author>
+    <name>Mogp</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://www.glzn.net/2020/04/08/hello-world/"/>
+    <id>http://www.glzn.net/2020/04/08/hello-world/</id>
+    <published>2020-04-08T15:19:33.853Z</published>
+    <updated>2019-01-07T14:57:48.505Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>华为荣耀手机转到红米手机的同步工具选择 360的安全换机</title>
+    <link href="http://www.glzn.net/2019/04/02/%E5%8D%8E%E4%B8%BA%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA%E8%BD%AC%E5%88%B0%E7%BA%A2%E7%B1%B3%E6%89%8B%E6%9C%BA%E7%9A%84%E5%90%8C%E6%AD%A5%E5%B7%A5%E5%85%B7%E9%80%89%E6%8B%A9-360%E7%9A%84%E5%AE%89%E5%85%A8%E6%8D%A2%E6%9C%BA/"/>
+    <id>http://www.glzn.net/2019/04/02/%E5%8D%8E%E4%B8%BA%E8%8D%A3%E8%80%80%E6%89%8B%E6%9C%BA%E8%BD%AC%E5%88%B0%E7%BA%A2%E7%B1%B3%E6%89%8B%E6%9C%BA%E7%9A%84%E5%90%8C%E6%AD%A5%E5%B7%A5%E5%85%B7%E9%80%89%E6%8B%A9-360%E7%9A%84%E5%AE%89%E5%85%A8%E6%8D%A2%E6%9C%BA/</id>
+    <published>2019-04-02T13:32:17.000Z</published>
+    <updated>2019-04-02T14:18:18.674Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://glzn.net/img/360huanji.jpg" alt="360huanji"></p><p>之前用过的同步软件有：豌豆夹、应用宝、360手机助手、91助手、华为HI SUITE、QQ同步助手等软件，能够在PC上操作，连接A手机进行备份，把数据还原到B手机上，这次从华为荣耀手机转到小米的红米手机，发现上面列出的软件都不好用。</p><p>豌豆夹、应用宝、360手机助手无法正常备份；</p><p>华为HI SUITE、换机助手只能在华为手机之间备份和还原；</p><p>小米的换机助手只能在小米手机之间备份和还原；</p><p>QQ同步助手只能同步联系人和短信。</p><p>最后找到360安全换机，解决了华为手机和红米手机之间的同步问题。两部手机需要同时安装360安全换机，设定好老机和新机，在同一WIFI环境下进行数据传输，传输过程中需保持屏幕不能锁屏。传输速度大概是2.5M/S.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://glzn.net/img/360huanji.jpg&quot; alt=&quot;360huanji&quot;&gt;&lt;/p&gt;
+&lt;p&gt;之前用过的同步软件有：豌豆夹、应用宝、360手机助手、91助手、华为HI SUITE、QQ同步助手等软件，能够在PC上操作，连接A手机
+      
+    
+    </summary>
+    
+    
+    
+      <category term="小米" scheme="http://www.glzn.net/tags/%E5%B0%8F%E7%B1%B3/"/>
+    
+      <category term="红米" scheme="http://www.glzn.net/tags/%E7%BA%A2%E7%B1%B3/"/>
+    
+      <category term="安卓手机同步" scheme="http://www.glzn.net/tags/%E5%AE%89%E5%8D%93%E6%89%8B%E6%9C%BA%E5%90%8C%E6%AD%A5/"/>
+    
+      <category term="荣耀" scheme="http://www.glzn.net/tags/%E8%8D%A3%E8%80%80/"/>
+    
+      <category term="华为" scheme="http://www.glzn.net/tags/%E5%8D%8E%E4%B8%BA/"/>
+    
+      <category term="360安全换机" scheme="http://www.glzn.net/tags/360%E5%AE%89%E5%85%A8%E6%8D%A2%E6%9C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>入手红米note7 pro手机</title>
+    <link href="http://www.glzn.net/2019/04/02/%E5%85%A5%E6%89%8B%E7%BA%A2%E7%B1%B3note7-pro%E6%89%8B%E6%9C%BA/"/>
+    <id>http://www.glzn.net/2019/04/02/%E5%85%A5%E6%89%8B%E7%BA%A2%E7%B1%B3note7-pro%E6%89%8B%E6%9C%BA/</id>
+    <published>2019-04-02T13:24:30.000Z</published>
+    <updated>2019-04-02T13:30:45.779Z</updated>
+    
+    <content type="html"><![CDATA[<p>自从用智能手机以来，先后用了中兴、华为的手机，先前用华为的荣耀4X和6X，6X用了两年半感觉还行，日常够用，前几天摔坏了屏幕，不得不考虑更换手机，原本看中的是荣耀的8X，奈何价格坚挺，舍不得下手，刚好红米NOTE7 PRO 上市，6+128的配置和1599的价格，太吸引人了，一开始的抢购没有抢到，后面在JD上抢到的。</p><p>有几点印象深刻：</p><p>1.屏幕看着很舒服，比荣耀的6X好，亮度高，分辨率高，显示效果比较满意；</p><p>2.配置高，满意；</p><p>3.耗电比较大，好在快充效果不错；</p><p>4.4800W的相机还没机会体现，直接拍的话，比较清楚，低光环境成像还行。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;自从用智能手机以来，先后用了中兴、华为的手机，先前用华为的荣耀4X和6X，6X用了两年半感觉还行，日常够用，前几天摔坏了屏幕，不得不考虑更换手机，原本看中的是荣耀的8X，奈何价格坚挺，舍不得下手，刚好红米NOTE7 PRO 上市，6+128的配置和1599的价格，太吸引人了
+      
+    
+    </summary>
+    
+    
+    
+      <category term="小米" scheme="http://www.glzn.net/tags/%E5%B0%8F%E7%B1%B3/"/>
+    
+      <category term="红米" scheme="http://www.glzn.net/tags/%E7%BA%A2%E7%B1%B3/"/>
+    
+      <category term="手机" scheme="http://www.glzn.net/tags/%E6%89%8B%E6%9C%BA/"/>
+    
+      <category term="NOTE7" scheme="http://www.glzn.net/tags/NOTE7/"/>
+    
+      <category term="pro" scheme="http://www.glzn.net/tags/pro/"/>
+    
+      <category term="米粉" scheme="http://www.glzn.net/tags/%E7%B1%B3%E7%B2%89/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>办理移动自由选择随心享8元套餐</title>
+    <link href="http://www.glzn.net/2019/04/02/%E5%8A%9E%E7%90%86%E7%A7%BB%E5%8A%A8%E8%87%AA%E7%94%B1%E9%80%89%E6%8B%A9%E9%9A%8F%E5%BF%83%E4%BA%AB8%E5%85%83%E5%A5%97%E9%A4%90/"/>
+    <id>http://www.glzn.net/2019/04/02/%E5%8A%9E%E7%90%86%E7%A7%BB%E5%8A%A8%E8%87%AA%E7%94%B1%E9%80%89%E6%8B%A9%E9%9A%8F%E5%BF%83%E4%BA%AB8%E5%85%83%E5%A5%97%E9%A4%90/</id>
+    <published>2019-04-02T13:12:49.000Z</published>
+    <updated>2019-04-02T13:23:35.437Z</updated>
+    
+    <content type="html"><![CDATA[<p>一直用的是移动的飞享套餐18元月费，4月1日资费到期，不得不更换。最终选择了自选套餐B–自由选择随心享8元月费–语音模组，每个月8块钱的月费含来电显示，套餐内可以免费拨打30分钟的电话，没有流量，全球通系列套餐全国被叫免费(捆绑)。作为副卡，以接听为主，够用了。</p><p>同时申请了免费的移动宽带，营业厅的工作人员收了100块钱的押金，结果今天移动工作人员来电告诉我，住处没有移动的设备暂时不能安装，具体什么时候等他们通知！！！</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;一直用的是移动的飞享套餐18元月费，4月1日资费到期，不得不更换。最终选择了自选套餐B–自由选择随心享8元月费–语音模组，每个月8块钱的月费含来电显示，套餐内可以免费拨打30分钟的电话，没有流量，全球通系列套餐全国被叫免费(捆绑)。作为副卡，以接听为主，够用了。&lt;/p&gt;
+&lt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="中国移动" scheme="http://www.glzn.net/tags/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/"/>
+    
+      <category term="套餐" scheme="http://www.glzn.net/tags/%E5%A5%97%E9%A4%90/"/>
+    
+      <category term="自选套餐" scheme="http://www.glzn.net/tags/%E8%87%AA%E9%80%89%E5%A5%97%E9%A4%90/"/>
+    
+      <category term="8元月费" scheme="http://www.glzn.net/tags/8%E5%85%83%E6%9C%88%E8%B4%B9/"/>
+    
+      <category term="营业厅" scheme="http://www.glzn.net/tags/%E8%90%A5%E4%B8%9A%E5%8E%85/"/>
+    
+      <category term="办理" scheme="http://www.glzn.net/tags/%E5%8A%9E%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>urlgot视频地址解析及下载</title>
+    <link href="http://www.glzn.net/2019/03/21/urlgot%E8%A7%86%E9%A2%91%E5%9C%B0%E5%9D%80%E8%A7%A3%E6%9E%90%E5%8F%8A%E4%B8%8B%E8%BD%BD/"/>
+    <id>http://www.glzn.net/2019/03/21/urlgot%E8%A7%86%E9%A2%91%E5%9C%B0%E5%9D%80%E8%A7%A3%E6%9E%90%E5%8F%8A%E4%B8%8B%E8%BD%BD/</id>
+    <published>2019-03-21T13:31:57.000Z</published>
+    <updated>2019-03-21T13:44:08.915Z</updated>
+    
+    <content type="html"><![CDATA[<p>受同学委托，帮忙下载爱奇艺的几个视频，折腾之后，找到几个办法，记录如下：</p><ul><li>通过爱奇艺PC客户端下载，然后进行转码<ul><li>下载安装爱奇艺PC版客户端，找到需要下载的视频，下载到QSV格式的视频；</li><li>下载QSV格式转换工具，转成MP4格式；</li><li>使用AVS Audio Converter等工具，把MP4转成MP3。原来QQ影音可以直接转换的，现在更换到4.1版本不能转换了，不知道这样的升级有啥意思。</li></ul></li><li><p>通过在线解析地址并下载</p><ul><li><a href="https://www.urlgot.com/zh_CN/" target="_blank" rel="noopener">https://www.urlgot.com/zh_CN/</a> 通过在线地址解析，还可以直接下载</li></ul></li><li><p>原来可用的维棠下载器、 奇艺网视频下载(xmlbar)、狸窝转换器下载网等工具已经不能下载，尤其是对爱奇艺不能使用。</p></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;受同学委托，帮忙下载爱奇艺的几个视频，折腾之后，找到几个办法，记录如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;通过爱奇艺PC客户端下载，然后进行转码&lt;ul&gt;
+&lt;li&gt;下载安装爱奇艺PC版客户端，找到需要下载的视频，下载到QSV格式的视频；&lt;/li&gt;
+&lt;li&gt;下载QSV格式转换工具，转
+      
+    
+    </summary>
+    
+    
+    
+      <category term="urlgot" scheme="http://www.glzn.net/tags/urlgot/"/>
+    
+      <category term="视频地址解析" scheme="http://www.glzn.net/tags/%E8%A7%86%E9%A2%91%E5%9C%B0%E5%9D%80%E8%A7%A3%E6%9E%90/"/>
+    
+      <category term="下载" scheme="http://www.glzn.net/tags/%E4%B8%8B%E8%BD%BD/"/>
+    
+      <category term="爱奇艺" scheme="http://www.glzn.net/tags/%E7%88%B1%E5%A5%87%E8%89%BA/"/>
+    
+      <category term="优酷" scheme="http://www.glzn.net/tags/%E4%BC%98%E9%85%B7/"/>
+    
+      <category term="腾讯" scheme="http://www.glzn.net/tags/%E8%85%BE%E8%AE%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>东风雪铁龙全新爱丽舍2014款手动时尚版5年6万公里使用记录</title>
+    <link href="http://www.glzn.net/2019/03/15/%E4%B8%9C%E9%A3%8E%E9%9B%AA%E9%93%81%E9%BE%99%E5%85%A8%E6%96%B0%E7%88%B1%E4%B8%BD%E8%88%8D2014%E6%AC%BE%E6%89%8B%E5%8A%A8%E6%97%B6%E5%B0%9A%E7%89%885%E5%B9%B46%E4%B8%87%E5%85%AC%E9%87%8C%E4%BD%BF%E7%94%A8%E6%84%9F%E5%8F%97/"/>
+    <id>http://www.glzn.net/2019/03/15/%E4%B8%9C%E9%A3%8E%E9%9B%AA%E9%93%81%E9%BE%99%E5%85%A8%E6%96%B0%E7%88%B1%E4%B8%BD%E8%88%8D2014%E6%AC%BE%E6%89%8B%E5%8A%A8%E6%97%B6%E5%B0%9A%E7%89%885%E5%B9%B46%E4%B8%87%E5%85%AC%E9%87%8C%E4%BD%BF%E7%94%A8%E6%84%9F%E5%8F%97/</id>
+    <published>2019-03-15T14:19:29.000Z</published>
+    <updated>2019-03-21T13:26:06.195Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>2014年9月28日，购买了东风雪铁龙全新爱丽舍2014款手动时尚版（丐中丐版），到今天2019年3月15日，使用了1629天，行程61930公里，总体来说很满意，今天来谈一下用车感受。</li><li>车身颜色，买车着急用车，只能在白色和琥珀棕两种颜色中进行选择，最终和爱人选了琥珀棕；</li><li>汽车排量，自然吸气1.6L，高转速发动机，市内跟车、高速超车，都比较满意，超出我的预期；</li><li>油耗：综合油耗8.7L/百公里，平均车速29公里。过年回家时，以高速为主，还算比较省油的。</li><li>空间：驾驶位、副驾驶位、后排和尾箱空间都算是比较满意，满足日常需要；</li><li>不满意的地方：副驾驶位没有把手，第一次坐副驾驶位的朋友会不习惯，右手找不到地方放，无所适从；后排头枕比较低，坐后排时想休息，对头部的支撑不够好；手动档不好挂档，每次都要用较大的力气才能扳到相应的档位；1档时加速会有窜出去的感觉，进2档后稍微好一点，3档后就随心所欲了；原车配的佳通轮胎，非常耐磨，但是噪音很大，55555公里左右，更换成普利斯通的轮胎，声音听得就舒服也能接受了；</li><li>这几年修过的小部件：左后刹车灯换了两次，保险丝烧了两三回，6万公里行程的时候在4S店工作人员提醒后，更换了全部的刹车片和刹车盘，我看了换下来的刹车片和刹车盘，刹车片已经磨损严重，有必要更换，刹车盘还可以再用几年的。</li><li>提车后，全部在4S店保养，目前第三次购买了延保合同，在4S店和保养手册可以查询；</li><li>先后在4S店、朋友、电话投保等处，购买全险，最近两年都是在4S店购买保险。</li><li>买车后，加入本地车友会QQ群，后成立微信群，和车友交流用车 体验，沟通顺畅，积极组织车友参加4S店的各种活动。</li><li>2014、2017、2018年，在4S店购买汽车保险。</li><li>提车至今，一直在4S店保养，购买了延保合同，目前买的第三次延保合同只用了一次。</li><li>特别提醒：原车的电池，三年左右肯定要换。需要提前做好准备。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;2014年9月28日，购买了东风雪铁龙全新爱丽舍2014款手动时尚版（丐中丐版），到今天2019年3月15日，使用了1629天，行程61930公里，总体来说很满意，今天来谈一下用车感受。&lt;/li&gt;
+&lt;li&gt;车身颜色，买车着急用车，只能在白色和琥珀棕两种颜色中进行
+      
+    
+    </summary>
+    
+    
+    
+      <category term="东风汽车" scheme="http://www.glzn.net/tags/%E4%B8%9C%E9%A3%8E%E6%B1%BD%E8%BD%A6/"/>
+    
+      <category term="雪铁龙" scheme="http://www.glzn.net/tags/%E9%9B%AA%E9%93%81%E9%BE%99/"/>
+    
+      <category term="全新爱丽舍" scheme="http://www.glzn.net/tags/%E5%85%A8%E6%96%B0%E7%88%B1%E4%B8%BD%E8%88%8D/"/>
+    
+      <category term="手动时尚版" scheme="http://www.glzn.net/tags/%E6%89%8B%E5%8A%A8%E6%97%B6%E5%B0%9A%E7%89%88/"/>
+    
+      <category term="6万公里，用车感受" scheme="http://www.glzn.net/tags/6%E4%B8%87%E5%85%AC%E9%87%8C%EF%BC%8C%E7%94%A8%E8%BD%A6%E6%84%9F%E5%8F%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HEXO在GITHUB PAGES写博客时TAGS的格式问题</title>
+    <link href="http://www.glzn.net/2019/01/31/HEXO%E5%9C%A8GITHUB-PAGES%E5%86%99%E5%8D%9A%E5%AE%A2%E6%97%B6TAGS%E7%9A%84%E6%A0%BC%E5%BC%8F%E9%97%AE%E9%A2%98/"/>
+    <id>http://www.glzn.net/2019/01/31/HEXO%E5%9C%A8GITHUB-PAGES%E5%86%99%E5%8D%9A%E5%AE%A2%E6%97%B6TAGS%E7%9A%84%E6%A0%BC%E5%BC%8F%E9%97%AE%E9%A2%98/</id>
+    <published>2019-01-31T14:45:47.000Z</published>
+    <updated>2019-01-31T14:51:59.659Z</updated>
+    
+    <content type="html"><![CDATA[<p>学人家用HEXO在GITHUB的PAGES上写博客，在TAGS的格式上走了弯路：</p><ol><li><p>TAGS后面没有空格，报错；</p></li><li><p>TAGS后面加了空格后，格式不对，多个TAGS显示成一句话了。BING之后，找到解决办法：</p><p>目前用<code>tags: [tag,tag,tag,tag]</code>格式，显示正常，问题解决</p></li></ol>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;学人家用HEXO在GITHUB的PAGES上写博客，在TAGS的格式上走了弯路：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;TAGS后面没有空格，报错；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;TAGS后面加了空格后，格式不对，多个TAGS显示成一句话了。BING之后，找到解决办法：&lt;/p
+      
+    
+    </summary>
+    
+    
+    
+      <category term="hexo" scheme="http://www.glzn.net/tags/hexo/"/>
+    
+      <category term="github" scheme="http://www.glzn.net/tags/github/"/>
+    
+      <category term="pages" scheme="http://www.glzn.net/tags/pages/"/>
+    
+      <category term="tags格式" scheme="http://www.glzn.net/tags/tags%E6%A0%BC%E5%BC%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>家在农村，电信网络不稳定，移动网络收费贵</title>
+    <link href="http://www.glzn.net/2019/01/31/%E5%AE%B6%E5%9C%A8%E5%86%9C%E6%9D%91%EF%BC%8C%E7%94%B5%E4%BF%A1%E7%BD%91%E7%BB%9C%E4%B8%8D%E7%A8%B3%E5%AE%9A%EF%BC%8C%E7%A7%BB%E5%8A%A8%E7%BD%91%E7%BB%9C%E6%94%B6%E8%B4%B9%E8%B4%B5/"/>
+    <id>http://www.glzn.net/2019/01/31/%E5%AE%B6%E5%9C%A8%E5%86%9C%E6%9D%91%EF%BC%8C%E7%94%B5%E4%BF%A1%E7%BD%91%E7%BB%9C%E4%B8%8D%E7%A8%B3%E5%AE%9A%EF%BC%8C%E7%A7%BB%E5%8A%A8%E7%BD%91%E7%BB%9C%E6%94%B6%E8%B4%B9%E8%B4%B5/</id>
+    <published>2019-01-31T14:23:50.000Z</published>
+    <updated>2019-01-31T14:38:55.902Z</updated>
+    
+    <content type="html"><![CDATA[<p> 这几天在农村老家，位置在环弄拉旅游区内，注意，是环弄拉旅游区，不是弄拉旅游区内。为了上网，费尽心思，总的来说是：电信网络不稳定，移动网络收费贵。</p><p>电信的信号是这样子的，门前4G信号满格，屋后3G信号满格，房间里3G信号半格，网络时快时慢， 虽有无限流量，英雄无用武之地，不胜其烦。二楼靠门前的网络还行，勉强能用，现在就是在这里手机开热点，笔记本上完成的。</p><p>移动网络倒是好，附近的山头上有信号塔，信号满格，可惜我移动网络没有流量包，一看广西移动10086微信公众号的报价，舍不得开通流量包啊！</p><p>记录一下</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt; 这几天在农村老家，位置在环弄拉旅游区内，注意，是环弄拉旅游区，不是弄拉旅游区内。为了上网，费尽心思，总的来说是：电信网络不稳定，移动网络收费贵。&lt;/p&gt;
+&lt;p&gt;电信的信号是这样子的，门前4G信号满格，屋后3G信号满格，房间里3G信号半格，网络时快时慢， 虽有无限流量，英雄
+      
+    
+    </summary>
+    
+    
+    
+      <category term="电信" scheme="http://www.glzn.net/tags/%E7%94%B5%E4%BF%A1/"/>
+    
+      <category term="移动" scheme="http://www.glzn.net/tags/%E7%A7%BB%E5%8A%A8/"/>
+    
+      <category term="网络" scheme="http://www.glzn.net/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="资费" scheme="http://www.glzn.net/tags/%E8%B5%84%E8%B4%B9/"/>
+    
+      <category term="农村" scheme="http://www.glzn.net/tags/%E5%86%9C%E6%9D%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>雷柏（Rapoo） X221M 多模式无线键盘配合华为荣耀6X手机</title>
+    <link href="http://www.glzn.net/2019/01/23/%E9%9B%B7%E6%9F%8F%EF%BC%88Rapoo%EF%BC%89-X221M-%E5%A4%9A%E6%A8%A1%E5%BC%8F%E6%97%A0%E7%BA%BF%E9%94%AE%E7%9B%98%E9%85%8D%E5%90%88%E5%8D%8E%E4%B8%BA%E8%8D%A3%E8%80%806X%E6%89%8B%E6%9C%BA/"/>
+    <id>http://www.glzn.net/2019/01/23/%E9%9B%B7%E6%9F%8F%EF%BC%88Rapoo%EF%BC%89-X221M-%E5%A4%9A%E6%A8%A1%E5%BC%8F%E6%97%A0%E7%BA%BF%E9%94%AE%E7%9B%98%E9%85%8D%E5%90%88%E5%8D%8E%E4%B8%BA%E8%8D%A3%E8%80%806X%E6%89%8B%E6%9C%BA/</id>
+    <published>2019-01-23T13:15:32.000Z</published>
+    <updated>2019-01-31T14:41:31.844Z</updated>
+    
+    <content type="html"><![CDATA[<p>个人拼音发音不好，2001开始接触电脑的时候，一个下午用拼音打不出50个字，发奋图强，一个星期学会五笔，在网吧和学校的机房里练习，从此走上五笔打字之路。电脑上一直打五笔。智能手机出来后，不习惯在小小的屏幕上打五笔，在手机上改用拼音。每天都在五笔和拼音之间无缝切换。</p><p>后面发布有蓝牙键盘，可以连接手机打五笔，关注了很久，担心连上不能用五笔，不敢在网上下单。昨天在本地电脑城入手雷柏（Rapoo） X221M蓝牙套装，键盘连上手机打五笔，鼠标连笔记本电脑使用。</p><p>蓝牙键盘的打字效果不错：</p><p>优点：</p><p>1.小巧，不重，方便携带；</p><p>2.连接速度快；</p><p>3.打字手感好，和ThinkPad多年前的笔记本键盘手感差不多。</p><p>也有一些不方便的地方：</p><p>1.只能使用手机默认的输入法打五笔，不能使用第三方输入法。比如荣耀手机出厂安装的是百度订制版输入法，就只能用这个输入法打五笔。安装的百度官方输入法和讯飞输入在五笔模式下，都打不出五笔。</p><p>2.微信聊天时，按回车不能发送信息。</p><p>3.五笔打出的多个选项，不能通用数字来选择。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;个人拼音发音不好，2001开始接触电脑的时候，一个下午用拼音打不出50个字，发奋图强，一个星期学会五笔，在网吧和学校的机房里练习，从此走上五笔打字之路。电脑上一直打五笔。智能手机出来后，不习惯在小小的屏幕上打五笔，在手机上改用拼音。每天都在五笔和拼音之间无缝切换。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="雷柏" scheme="http://www.glzn.net/tags/%E9%9B%B7%E6%9F%8F/"/>
+    
+      <category term="蓝牙键盘" scheme="http://www.glzn.net/tags/%E8%93%9D%E7%89%99%E9%94%AE%E7%9B%98/"/>
+    
+      <category term="华为手机" scheme="http://www.glzn.net/tags/%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA/"/>
+    
+      <category term="手机录入问题" scheme="http://www.glzn.net/tags/%E6%89%8B%E6%9C%BA%E5%BD%95%E5%85%A5%E9%97%AE%E9%A2%98/"/>
+    
+      <category term="五笔" scheme="http://www.glzn.net/tags/%E4%BA%94%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>今天更换了全车刹车片和刹车盘</title>
+    <link href="http://www.glzn.net/2019/01/23/%E4%BB%8A%E5%A4%A9%E6%9B%B4%E6%8D%A2%E4%BA%86%E5%85%A8%E8%BD%A6%E5%88%B9%E8%BD%A6%E7%89%87%E5%92%8C%E5%88%B9%E8%BD%A6%E7%9B%98/"/>
+    <id>http://www.glzn.net/2019/01/23/%E4%BB%8A%E5%A4%A9%E6%9B%B4%E6%8D%A2%E4%BA%86%E5%85%A8%E8%BD%A6%E5%88%B9%E8%BD%A6%E7%89%87%E5%92%8C%E5%88%B9%E8%BD%A6%E7%9B%98/</id>
+    <published>2019-01-23T12:58:11.000Z</published>
+    <updated>2019-01-31T14:41:11.056Z</updated>
+    
+    <content type="html"><![CDATA[<p>2014年9月底买的小汽车，至今已经4年4个月，里程60150公里，上次去4S保养的时候，工作人员提醒，刹车片和刹车盘都已经磨得差不多了，出于安全考虑，建议及时更换。考虑到过年期间会回老家，走高速，预约好今天去更换全车的刹车片和刹车盘。</p><p>我认真看了换下来的刹车片和刹车盘，刹车片磨损严重，必须更换；刹车盘有磨损，不换也可以使用。换下来后，刹车脚更舒服，效果很好。算是比较满意，不用顾虑行车安全，放心开车。</p><p>维修过程，我发现发动仓下方有一块掉下来的管道，经提醒，工作人员告知是进气管，有和没有影响不大，对安全不会造成影响。原因不详，出厂的时候是有的，现在掉下来了，终归是个隐患。于是要求更换，结果4S店没有现货，需要预订。上次保养的时候发现掉下来，工作人员帮忙装上去了，不知道什么时候又掉下来了，和汽车底盘的排气管挨在一起，已经把排气近的保护外层烧坏，如果不能及时发现，后面可能会烧坏的。</p><p>汽车安全，不容忽视。工作人员按章办事，可能不会全面检查，还是需要自己多留意才行。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;2014年9月底买的小汽车，至今已经4年4个月，里程60150公里，上次去4S保养的时候，工作人员提醒，刹车片和刹车盘都已经磨得差不多了，出于安全考虑，建议及时更换。考虑到过年期间会回老家，走高速，预约好今天去更换全车的刹车片和刹车盘。&lt;/p&gt;
+&lt;p&gt;我认真看了换下来的刹车
+      
+    
+    </summary>
+    
+    
+    
+      <category term="汽车" scheme="http://www.glzn.net/tags/%E6%B1%BD%E8%BD%A6/"/>
+    
+      <category term="刹车片" scheme="http://www.glzn.net/tags/%E5%88%B9%E8%BD%A6%E7%89%87/"/>
+    
+      <category term="刹车盘" scheme="http://www.glzn.net/tags/%E5%88%B9%E8%BD%A6%E7%9B%98/"/>
+    
+      <category term="保养" scheme="http://www.glzn.net/tags/%E4%BF%9D%E5%85%BB/"/>
+    
+      <category term="6万公里" scheme="http://www.glzn.net/tags/6%E4%B8%87%E5%85%AC%E9%87%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CHROME浏览器能访问 EDGE浏览器不能访问</title>
+    <link href="http://www.glzn.net/2019/01/10/CHROME%E8%83%BD%E8%AE%BF%E9%97%AE-EDGE%E4%B8%8D%E8%83%BD%E8%AE%BF%E9%97%AE/"/>
+    <id>http://www.glzn.net/2019/01/10/CHROME%E8%83%BD%E8%AE%BF%E9%97%AE-EDGE%E4%B8%8D%E8%83%BD%E8%AE%BF%E9%97%AE/</id>
+    <published>2019-01-10T15:17:14.000Z</published>
+    <updated>2019-01-31T14:40:48.196Z</updated>
+    
+    <content type="html"><![CDATA[<p> HEXO+GITHUB组合，绑定个人域名<a href="https://glzn.net/" target="_blank" rel="noopener">https://glzn.net/</a>, 启用HTTPS。</p><p>现在CHROME访问‘ <a href="http://www.glzn.net">www.glzn.net</a> ’，出错，访问 ‘ <a href="https://glzn.net/" target="_blank" rel="noopener">https://glzn.net/</a> ‘ 正常</p><p>使用EDGE访问’ <a href="http://www.glzn.net">www.glzn.net</a> ‘ 或者 ‘ <a href="https://glzn.net/" target="_blank" rel="noopener">https://glzn.net/</a> ‘ 都会出错。</p><p>记录于此，原因待查，搞清楚了再贴出解决方案。</p><p> EDGE浏览器打不开GITHUB，貌似把HITHUB提供的HTTPS列为不安全。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt; HEXO+GITHUB组合，绑定个人域名&lt;a href=&quot;https://glzn.net/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://glzn.net/&lt;/a&gt;, 启用HTTPS。&lt;/p&gt;
+&lt;p&gt;现在CHROME访问‘ &lt;a hre
+      
+    
+    </summary>
+    
+    
+    
+      <category term="CHROME" scheme="http://www.glzn.net/tags/CHROME/"/>
+    
+      <category term="EDGE" scheme="http://www.glzn.net/tags/EDGE/"/>
+    
+      <category term="GITHUB" scheme="http://www.glzn.net/tags/GITHUB/"/>
+    
+      <category term="HEXO" scheme="http://www.glzn.net/tags/HEXO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>域名续费两年</title>
+    <link href="http://www.glzn.net/2019/01/10/%E5%9F%9F%E5%90%8D%E7%BB%AD%E8%B4%B9%E4%B8%A4%E5%B9%B4/"/>
+    <id>http://www.glzn.net/2019/01/10/%E5%9F%9F%E5%90%8D%E7%BB%AD%E8%B4%B9%E4%B8%A4%E5%B9%B4/</id>
+    <published>2019-01-10T15:02:31.000Z</published>
+    <updated>2019-01-31T14:42:24.449Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="域名续费两年"><a href="#域名续费两年" class="headerlink" title="域名续费两年"></a>域名续费两年</h4><p>这个域名买了几年，之前的空间主要放在阿里云，每年的更新次数不多，供着域名就算了，还要供着空间，觉得实在划不来，前两天通过HEXO+GITHUB组合，把PAGES利用起来，绑定域名并解析，算是一种解决方案吧。</p><p>好消息是GITHUB开放私人开发者仓库，希望借此春风，能稳定访问并使用。</p><p>借助这种方式，进一步熟悉一下MARKDOWN语法。提醒自己尽可能的写点文字。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;域名续费两年&quot;&gt;&lt;a href=&quot;#域名续费两年&quot; class=&quot;headerlink&quot; title=&quot;域名续费两年&quot;&gt;&lt;/a&gt;域名续费两年&lt;/h4&gt;&lt;p&gt;这个域名买了几年，之前的空间主要放在阿里云，每年的更新次数不多，供着域名就算了，还要供着空间，觉得实在划不来
+      
+    
+    </summary>
+    
+    
+    
+      <category term="github" scheme="http://www.glzn.net/tags/github/"/>
+    
+      <category term="pages" scheme="http://www.glzn.net/tags/pages/"/>
+    
+      <category term="域名续费" scheme="http://www.glzn.net/tags/%E5%9F%9F%E5%90%8D%E7%BB%AD%E8%B4%B9/"/>
+    
+      <category term="阿里云" scheme="http://www.glzn.net/tags/%E9%98%BF%E9%87%8C%E4%BA%91/"/>
+    
+      <category term=".net" scheme="http://www.glzn.net/tags/net/"/>
+    
+  </entry>
+  
+</feed>
